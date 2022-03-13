@@ -1,0 +1,32 @@
+.parent {
+    margin-top: 40px;
+    border: 30px rgb(230, 210, 33);
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: center;
+    border-style:hidden;
+  }
+.child {
+    display: inline-block;
+    border: 30px curve olivedrab;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+    font-style: bold;
+    font-family:serif;
+    font-size: 20px;
+  }
+.a{
+      display: flex;
+      justify-content: center;
+      padding: 1rem 1rem;
+      vertical-align: middle;
+  }
+  .parent>div{
+     display:flex;
+     justify-content: center;
+     align-items: center;
+  }
+.back{
+  background-image: url('accessbackimage.jpeg');
+  back
+}
