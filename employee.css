@@ -1,0 +1,13 @@
+.button{
+    height:70px;
+    width:350px;
+    border-radius: 10px;
+    background-color: rgb(226, 162, 43);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+.back{
+    background-image: url('accessbackimage.jpeg');
+    background-size: 1400px 700px;
+}
